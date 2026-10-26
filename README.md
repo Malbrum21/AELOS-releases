@@ -50,7 +50,6 @@ This repository distributes the **AELOS Demo** for Windows.
 | Mass case | MTOW |
 | Flight condition | Cruise |
 | Tools | Real-time cockpit |
-| Validity | Each release expires on a fixed date, shown at start-up |
 
 **On launch**, the AELOS splash screen appears, followed by the licence screen on first
 start. Then choose **Rigid** or **Elastic** to open the cockpit.
@@ -63,8 +62,7 @@ start. Then choose **Rigid** or **Elastic** to open the cockpit.
 2. Download `AELOS-Demo-<version>.exe`.
 3. Run it. No installation or Python required.
 
-> Always download AELOS from this page. Every release is signed and carries its own expiry
-> date. When a release expires, a new one will be available here.
+> Always download AELOS from this page: it always has the current, signed release.
 
 ---
 

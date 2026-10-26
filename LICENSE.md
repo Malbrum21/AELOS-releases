@@ -68,12 +68,12 @@ The Licensee may freely publish results, figures and data produced with the Soft
 theses, papers, reports and presentations, provided the Software is acknowledged with the
 citation given on the official distribution page.
 
-## 6. Term and expiry
+## 6. Term
 
-Each release of the Software is valid until the expiry date displayed at start-up, after
-which it stops working. This Licence ends on that date, or earlier if the Licensee breaches
-any of its terms. On termination, the Licensee shall stop using the Software and delete all
-copies. Sections 3, 4, 7, 8 and 9 survive termination.
+This Licence applies for as long as the Licensee uses the Software in accordance with it. A release of the Software
+may carry an expiry date, displayed at start-up; after that date the release stops working and this Licence ends for
+it. This Licence ends earlier if the Licensee breaches any of its terms. On termination, the Licensee shall stop using
+the Software and delete all copies. Sections 3, 4, 7, 8 and 9 survive termination.
 
 ## 7. Ownership
 
