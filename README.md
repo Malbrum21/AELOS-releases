@@ -13,7 +13,7 @@
 ## What is AELOS?
 
 **AELOS** (*AeroElastic LOads Simulator*) is a complete aircraft flight simulator built
-around one idea: **the airframe is not rigid, and the loads matter.**
+around one idea: **the airframe is not rigid, and the aeroelasticity matter.**
 
 It covers everything a flight simulation needs: six-degree-of-freedom flight dynamics,
 aerodynamics, propulsion, landing gear, atmosphere, flight control and a real-time cockpit
@@ -33,7 +33,7 @@ With AELOS you can:
   "potato" plots *(full version)*
 - **Investigate aeroelastic stability (flutter)** *(full version)*
 
-AELOS is developed for **research and teaching** in aircraft loads, aeroelasticity and
+AELOS is developed for **research** in aircraft loads, aeroelasticity and
 flight dynamics.
 
 ---
@@ -71,13 +71,13 @@ start. Then choose **Rigid** or **Elastic** to open the cockpit.
 AELOS is distributed **as an executable only**, under the
 [AELOS Academic & Research Licence](LICENSE.md):
 
-- ✅ Free for **non-commercial research and teaching**
+- ✅ Free for **non-commercial research**
 - ✅ Colleagues are welcome: each user downloads their own copy from this page
 - ✅ You may **publish your results**, citing AELOS (see below)
 - ❌ No commercial use, no redistribution, no reverse engineering
 - ❌ The source code is **not** part of the licence
 
-**Commercial use?** Licences for industrial use are available on request: `<contact>`
+**No Commercial version are available**
 
 ---
 
@@ -85,12 +85,12 @@ AELOS is distributed **as an executable only**, under the
 
 If AELOS contributes to your work, please cite it:
 
-> `<Author>`, *AELOS: AeroElastic LOads Simulator*, version X.Y.Z, 2026.
+> `D. Pezzella`, *AELOS: AeroElastic LOads Simulator*, version X.Y.Z, 2026.
 > Available at: https://github.com/malbrum21/AELOS-releases
 
 ```bibtex
 @software{aelos,
-  author  = {<Author>},
+  author  = {D. Pezzella},
   title   = {{AELOS}: {AeroElastic LOads Simulator}},
   version = {X.Y.Z},
   year    = {2026},
@@ -107,20 +107,17 @@ The B747-400 structural model is derived from the B747 model by gijsrooy
 The aircraft data are engineering estimates from public sources. They are not Boeing data
 and do not represent the actual aircraft.
 
-<!-- TODO before release: confirm the licence of gijsrooy/747-400 and the author's name;
-     replace or credit the JSBSim-derived rigid aerodynamic database. -->
-
 ---
 
 ## Disclaimer
 
-AELOS is a research and teaching tool. Its results are **not** intended for aircraft
+AELOS is a research tool. Its results are **not** intended for aircraft
 certification, design sign-off or operational decisions.
 
 ---
 
 ## Contact
 
-Questions, feedback, collaborations or commercial licensing: `<contact>`
+Questions, feedback or collaborations: `malbrum1986@gmail.com`
 
 <p align="center"><sub>© 2026 &lt;Licensor&gt;. All rights reserved.</sub></p>
