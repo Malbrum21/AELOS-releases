@@ -120,6 +120,6 @@ certification, design sign-off or operational decisions.
 
 ## Contact
 
-Questions, feedback, collaborations or commercial licensing: `<contact>`
+Questions, feedback or collaborations: `malbrum1986@gmail.com`
 
 <p align="center"><sub>© 2026 &lt;Licensor&gt;. All rights reserved.</sub></p>
