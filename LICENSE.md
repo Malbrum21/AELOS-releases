@@ -12,18 +12,14 @@ accept the terms of this Licence. If you do not accept them, do not use the Soft
 - **"Software"**: the AELOS executable, including all embedded data, aircraft models,
   databases, images and documentation, in object-code form only.
 - **"Licensor"**: `<Licensor>`.
-- **"Academic or Research Use"**: use for non-commercial teaching, study or research by an
-  individual, or within a university, school or non-profit research institution, where
-  neither the use nor its results are sold, licensed or provided as a paid service.
+- **"Research Use"**: use for non-commercial research, including theses and dissertations,
+  by an individual or within a university or non-profit research institution, where neither
+  the use nor its results are sold, licensed or provided as a paid service.
 
 ## 2. Grant of licence
 
 The Licensor grants the Licensee a free, non-exclusive, non-transferable, revocable licence
-to install and use the Software solely for Academic or Research Use, for the period stated
-in Section 6.
-
-Instructors may install the Software on teaching or laboratory computers of their
-institution for use by their students under these terms.
+to install and use the Software solely for Research Use, for the period stated in Section 6.
 
 ## 3. Restrictions
 
@@ -86,7 +82,7 @@ The Software is provided free of charge and "as is". The Licensor gives no warra
 its accuracy, completeness or fitness for a particular purpose, except where the Licensor
 has fraudulently concealed a defect.
 
-The Software is a research and teaching tool. Its results shall not be used for aircraft
+The Software is a research tool. Its results shall not be used for aircraft
 certification, design sign-off, airworthiness or operational decisions. The aircraft
 models are generic and based on public data.
 
@@ -96,10 +92,10 @@ As the Software is provided free of charge, the Licensor is liable only for inte
 gross negligence. This does not limit liability for injury to life, body or health, or
 liability under the German Product Liability Act (Produkthaftungsgesetz).
 
-## 10. Commercial licence
+## 10. No commercial use
 
-Any use not covered by this Licence, in particular commercial use, requires a separate
-written licence from the Licensor. Contact: `<contact>`
+No commercial version or commercial licence of the Software is offered. Any use not covered
+by this Licence, in particular commercial use, is not permitted. Questions: malbrum1986@gmail.com
 
 ## 11. Governing law
 
