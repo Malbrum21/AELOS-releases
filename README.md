@@ -102,10 +102,13 @@ If AELOS contributes to your work, please cite it:
 
 ## Acknowledgements
 
-The B747-400 structural model is derived from the B747 model by gijsrooy
-(https://github.com/gijsrooy/747-400), extended and substantially modified for AELOS.
-The aircraft data are engineering estimates from public sources. They are not Boeing data
-and do not represent the actual aircraft.
+**Aircraft data.** The B747-400 model (structure, mass cases, elastic model, loads stations
+and the 3D model's textures) was created by D. Pezzella. The 3D model's geometry is adapted
+from the FlightGear 747-400 by Gijs de Rooy (GNU GPL v2,
+https://github.com/gijsrooy/747-400); the rigid aerodynamic database is derived from the
+JSBSim B747 (GNU GPL, https://github.com/JSBSim-Team/jsbsim). The data are engineering
+estimates from public sources, not manufacturer data, and do not represent the actual
+aircraft.
 
 ---
 
