@@ -62,7 +62,10 @@ start. Then choose **Rigid** or **Elastic** to open the cockpit.
 2. Download `AELOS-Demo-<version>.exe`.
 3. Run it. No installation or Python required.
 
-> Always download AELOS from this page: it always has the current, signed release.
+> Always download AELOS from this page: it always has the current release.
+>
+> **Windows SmartScreen** may show "Windows protected your PC" at the first start, because the
+> executable is not code-signed yet: click **More info → Run anyway**.
 
 ---
 
@@ -77,7 +80,7 @@ AELOS is distributed **as an executable only**, under the
 - ❌ No commercial use, no redistribution, no reverse engineering
 - ❌ The source code is **not** part of the licence
 
-**No Commercial version are available**
+**No commercial version is available.**
 
 ---
 
