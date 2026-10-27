@@ -2,7 +2,7 @@
 
 Version 1.0, 2026
 
-Copyright © 2026 `<Licensor>`. All rights reserved.
+Copyright © 2026 Domenico Pezzella. All rights reserved.
 
 By installing, running or otherwise using AELOS (the "Software"), you (the "Licensee")
 accept the terms of this Licence. If you do not accept them, do not use the Software.
@@ -11,7 +11,7 @@ accept the terms of this Licence. If you do not accept them, do not use the Soft
 
 - **"Software"**: the AELOS executable, including all embedded data, aircraft models,
   databases, images and documentation, in object-code form only.
-- **"Licensor"**: `<Licensor>`.
+- **"Licensor"**: Domenico Pezzella.
 - **"Research Use"**: use for non-commercial research, including theses and dissertations,
   by an individual or within a university or non-profit research institution, where neither
   the use nor its results are sold, licensed or provided as a paid service.
