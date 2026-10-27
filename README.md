@@ -95,7 +95,7 @@ If AELOS contributes to your work, please cite it:
 @software{aelos,
   author  = {D. Pezzella},
   title   = {{AELOS}: {AeroElastic LOads Simulator}},
-  version = {X.Y.Z},
+  version = {0.2.0},
   year    = {2026},
   url     = {https://github.com/malbrum21/AELOS-releases}
 }
